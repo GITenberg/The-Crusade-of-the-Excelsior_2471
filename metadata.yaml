@@ -1,0 +1,27 @@
+_repo: The-Crusade-of-the-Excelsior_2471
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_issued: '2006-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Social life and customs -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- GITenberg
+title: The Crusade of the Excelsior
+url: http://www.gutenberg.org/ebooks/2471
